@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sega Mega 32x</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Mega 32x</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Designed to expand the power of the Megadrive and serve as a transitional console into the 32-bit era until the release of the Sega Saturn</text>
+  </text>
+ </view>
+</theme>

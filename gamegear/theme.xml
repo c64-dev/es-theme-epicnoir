@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sega GameGear</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>GameGear</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1990  ·  8-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Game Gear shares much of its hardware with the Master System and is able to play its own titles as well as those of the Master System</text>
+  </text>
+ </view>
+</theme>

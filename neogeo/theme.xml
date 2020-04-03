@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Neo Geo</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Neo Geo</text>
+    <fontSize>0.21</fontSize>
+    <origin>0 0</origin>
+    <pos>0.0916 0.1390</pos>
+    <size>0 0</size>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>1990  ·  24-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</text>
+  </text>
+ </view>
+</theme>

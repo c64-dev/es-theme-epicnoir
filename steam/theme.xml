@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>DIGITAL PLATFORM</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</text>
+  </text>
+ </view>
+</theme>

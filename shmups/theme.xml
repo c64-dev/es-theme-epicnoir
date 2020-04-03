@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Shoot 'em Up Genre</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Shoot 'em Up</text>
+    <fontSize>0.21</fontSize>
+    <origin>0 0</origin>
+    <pos>0.0916 0.1390</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>In a shoot 'em up, the player shoots large numbers of enemies while dodging obstacles, often in a spacecraft or aircraft</text>
+  </text>
+ </view>
+</theme>

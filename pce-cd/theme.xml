@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1988  ·  16-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Add-on attachment for the PC Engine. The add-on allows core versions of the console to play PC Engine games in CD-ROM format</text>
+  </text>
+ </view>
+</theme>

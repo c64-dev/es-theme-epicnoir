@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  DESKTOP COMPUTERS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft</text>
+  </text>
+ </view>
+</theme>

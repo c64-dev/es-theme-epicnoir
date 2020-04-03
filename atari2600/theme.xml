@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Atari 2600</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Atari 2600</text>
+    <fontSize>0.21</fontSize>
+    <origin>0 0</origin>
+    <pos>0.0916 0.1390</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1977  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Atari 2600 is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code</text>
+  </text>
+ </view>
+</theme>

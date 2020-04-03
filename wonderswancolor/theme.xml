@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1999  ·  16-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Powered by a 16 bit central processing unit, it took advantage of a low price point and long battery life in comparison to its competition</text>
+  </text>
+ </view>
+</theme>

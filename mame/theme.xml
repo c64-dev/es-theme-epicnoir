@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COIN OPERATED CABINET</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+  </text>
+ </view>
+</theme>

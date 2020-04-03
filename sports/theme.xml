@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Sports Genre</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Sports</text>
+    <fontSize>0.21</fontSize>
+    <origin>0 0</origin>
+    <pos>0.0916 0.1390</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Most sports have been recreated with a game, including team sports, track and field, extreme sports and combat sports</text>
+  </text>
+ </view>
+</theme>

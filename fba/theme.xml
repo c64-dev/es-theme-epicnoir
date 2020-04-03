@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Final Burn Alpha</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Final Burn</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Alpha</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>Coin Operated Cabinet</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+  </text>
+ </view>
+</theme>

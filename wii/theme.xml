@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2006  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Wii introduced the Wii Remote controller, which can be used as a handheld pointing device and detects movement in three dimensions.</text>
+  </text>
+ </view>
+</theme>

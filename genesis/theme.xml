@@ -1,0 +1,30 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1989  ·  16-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sega's third console and the successor to the Master System. Released in North America as the Genesis</text>
+  </text>
+   <text name="nameLabel" extra="true">
+    <text>Sega Genesis</text>
+  </text>
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Genesis</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
+ </view>
+</theme>

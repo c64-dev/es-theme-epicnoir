@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>SHUT DOWN MENU</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Safe option to Shut down or restart your System</text>
+  </text>
+ </view>
+</theme>

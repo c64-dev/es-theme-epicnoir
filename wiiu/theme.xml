@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2012  ·  HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to the Wii and the first eighth-gen video game console, as it competed with Microsoft's Xbox One and Sony's PS4.</text>
+  </text>
+ </view>
+</theme>

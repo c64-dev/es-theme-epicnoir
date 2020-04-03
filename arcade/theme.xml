@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Arcade</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Arcade</text>
+    <fontSize>0.21</fontSize>
+    <origin>0 0</origin>
+    <pos>0.0916 0.1390</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+    <text>1970's  ·  Arcade Machines</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+  </text>
+ </view>
+</theme>

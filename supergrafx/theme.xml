@@ -1,0 +1,14 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1989  ·  16-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The SuperGrafx is an upgraded version of the PC Engine. Only six retail games were produced which took advantage of the improved hardware
+</text>
+  </text>
+ </view>
+</theme>

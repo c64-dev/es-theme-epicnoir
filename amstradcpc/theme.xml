@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Amstrad CPC</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Amstrad CPC</text>
+    <fontSize>0.21</fontSize>
+    <origin>0 0</origin>
+    <pos>0.0916 0.1390</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  8-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Amstrad CPC is a series of 8-bit home computers. The CPC series was pitched against other home computers and enjoyed a strong supply of game software</text>
+  </text>
+ </view>
+</theme>

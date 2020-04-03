@@ -2,9 +2,29 @@
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="system, basic, detailed, video, grid">
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Valve Steam</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Valve</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Steam</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
   <text name="shortdescription" extra="true">
-   <text>DIGITAL PLATFORM</text>
+   <text>Digital Platform</text>
   </text>
   <text name="longdescription" extra="true">
    <text>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</text>

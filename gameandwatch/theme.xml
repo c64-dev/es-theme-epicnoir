@@ -2,22 +2,25 @@
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="system, basic, detailed, video, grid">
-  <text name="shortdescription" extra="true">
-   <text>HANDHELD ELECTRONIC GAMES</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</text>
-  </text>
-  <text name="nameLabel" extra="true">
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
     <text>Game & Watch</text>
   </text>
+</view>    
+
+<view name="system">
   <text name="sys_line2" extra="true">
     <text>Game & Watch</text>
     <fontSize>0.21</fontSize>
     <origin>0 0</origin>
     <pos>0.0916 0.1390</pos>
     <size>0 0</size>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>Handheld Electronic Games</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</text>
   </text>
  </view>
 </theme>

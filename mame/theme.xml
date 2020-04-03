@@ -2,9 +2,29 @@
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="system, basic, detailed, video, grid">
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>M.A.M.E.</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Multiple Arcade Machine Emulator</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>M.A.M.E.</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
   <text name="shortdescription" extra="true">
-   <text>COIN OPERATED CABINET</text>
+   <text>Coin Operated Cabinet</text>
   </text>
   <text name="longdescription" extra="true">
    <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>

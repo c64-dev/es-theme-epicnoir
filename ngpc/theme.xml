@@ -2,9 +2,29 @@
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="system, basic, detailed, video, grid">
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Neo Geo Pocket Color</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Neo Geo</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Pocket Color</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
   <text name="shortdescription" extra="true">
-   <text>1999  ·  16-BIT HANDHELD CONSOLE</text>
+   <text>1999  ·  16-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>

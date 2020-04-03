@@ -2,9 +2,29 @@
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="system, basic, detailed, video, grid">
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sega MegaCD</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>MegaCD</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
   <text name="shortdescription" extra="true">
-   <text>1991  ·  16-BIT CONSOLE</text>
+   <text>1991  ·  16-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
    <text>CD-ROM add-on to the Megadrive, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB</text>

@@ -2,9 +2,29 @@
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="system, basic, detailed, video, grid">
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sony Playstation 2</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sony</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.090 0.1760</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Playstation 2</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.088 0.184</pos>
+    <size>0 0</size>
+</text>
   <text name="shortdescription" extra="true">
-   <text>2000  ·  '128-BIT' CONSOLE</text>
+   <text>2000  ·  128-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>

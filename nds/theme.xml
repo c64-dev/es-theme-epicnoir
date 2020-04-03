@@ -2,9 +2,22 @@
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="system, basic, detailed, video, grid">
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Nintendo DS</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Nintendo DS</text>
+    <fontSize>0.21</fontSize>
+    <origin>0 0</origin>
+    <pos>0.0916 0.1390</pos>
+    <size>0 0</size>
+  </text> 
   <text name="shortdescription" extra="true">
-   <text>2004  ·  32-BIT HANDHELD CONSOLE</text>
+   <text>2004  ·  32-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem</text>

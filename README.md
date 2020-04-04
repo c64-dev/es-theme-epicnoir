@@ -31,7 +31,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 ### Thanks and Credits
 
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
-Most of them can be found in [DeviantArt](http://www.deviantart.com/)
+Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
 ###### [back to top](#top)
 
@@ -91,7 +91,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Sample10](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/010.jpg) \
 ![Sample11](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/011.jpg) \
 ![Sample12](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/012.jpg) \
-![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) \
+![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) 
 
 
 ###### [back to top](#top)
@@ -114,7 +114,7 @@ Commodore 64 \
 Commodore Amiga \
 ColecoVision \ 
 Daphne \
-Famicom / Super Famicom \ 
+Famicom /\ Super Famicom \ 
 Game & Watch \
 Intellivision \
 MAME \ 
@@ -154,7 +154,7 @@ Valve Steam \
 Vectrex \
 Wonderswan \
 Wonderswan Color \
-x-68000 \
+x-68000 
 
 **Collections:** \
 Auto Collections

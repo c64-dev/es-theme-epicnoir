@@ -313,7 +313,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <image name="md_image">
         <tile>false</tile>
         <origin>0.5 0.5</origin>
-        <pos>0.6925 0.3915</pos><!-- 0.43 0.16 size 0.464 0.570 -->
+        <pos>0.66 0.3915</pos><!-- 0.43 0.16 size 0.464 0.570 -->
         <maxSize>0.5 0.6</maxSize>
     </image>
 

@@ -1,6 +1,6 @@
-## EpicNoir RetroPie Theme
+## EpicNoir RetroPie Theme[](#top)
 
-This is a dark RetroPie theme based on Chicuelo's original ideas and brought to life in collaboration with Nick L (c64-dev@github).
+This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 
 ---
 
@@ -24,17 +24,16 @@ PROHIBITED:
 ### Please note:
 By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
 
-###### [back to top](#EpicNoir)
+###### [back to top](#top)
 
 ---
 
 ### Thanks and Credits
 
-All credit should go out to Chicuelo for his hard work on the original theme, to Davin Cook (http://www.devincook.com) for the amazing fonts and to all other artists and Retropie community members that have contributed artwork in any shape or form.
+All original artwork belongs to the many artists who devoted their talents and time into making them. 
+Most of them can be found in [DeviantArt](http://www.deviantart.com/)
 
-Original thread for the Chicuelo theme can be found here: https://retropie.org.uk/forum/topic/15830/chicuelo-theme/882
-
-###### [back to top](#EpicNoir)
+###### [back to top](#top)
 
 ---
 
@@ -46,7 +45,7 @@ Original thread for the Chicuelo theme can be found here: https://retropie.org.u
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
 
-###### [back to top](#EpicNoir)
+###### [back to top](#top)
 
 ---
 
@@ -74,15 +73,28 @@ This theme supports video. You can also use a scraped image in conjunction with 
 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
-###### [back to top](#EpicNoir)
+###### [back to top](#top)
 
 ---
 
 ### Screenshots
 
-![Image]
+![Sample01](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/001.jpg) \
+![Sample02](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/002.jpg) \
+![Sample03](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/003.jpg) \
+![Sample04](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/004.jpg) \
+![Sample05](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/005.jpg) \ 
+![Sample06](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/006.jpg) \
+![Sample07](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/007.jpg) \
+![Sample08](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/008.jpg) \
+![Sample09](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/009.jpg) \
+![Sample10](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/010.jpg) \
+![Sample11](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/011.jpg) \
+![Sample12](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/012.jpg) \
+![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) \
 
-###### [back to top](#EpicNoir)
+
+###### [back to top](#top)
 
 ## Fully Supported Systems
 ###### (backgrounds, controller images, descriptions) :
@@ -140,7 +152,6 @@ SuperGrafx \
 TurboGrafx-16 \
 Valve Steam \
 Vectrex \
-VideoPac \
 Wonderswan \
 Wonderswan Color \
 x-68000 \
@@ -149,4 +160,4 @@ x-68000 \
 Auto Collections
 Custom Collections (for when a user creates their own collection within ES)
 
-###### [back to top](#EpicNoir)
+###### [back to top](#top)

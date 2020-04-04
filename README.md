@@ -114,15 +114,14 @@ Commodore 64 \
 Commodore Amiga \
 ColecoVision \ 
 Daphne \
-Famicom /\ Super Famicom \ 
+Famicom & Super Famicom \ 
 Game & Watch \
 Intellivision \
 MAME \ 
 MS-DOS \
-MSX / MSX 2 \
+MSX & MSX 2 \
 Neo Geo \
-Neo Geo Pocket \ 
-Neo Geo Pocket Color \ 
+Neo Geo Pocket & Pocket Color \ 
 Nintendo 64 \
 Nintendo DS \
 Nintendo Dreamcast \ 
@@ -133,21 +132,20 @@ Nintendo Gameboy Color \
 Nintendo GameCube \
 Nintendo SNES \
 Nintendo VirtualBoy \
-Nintendo Wii \
-Nintendo WiiU \
+Nintendo Wii & WiiU \
 PC-Engine \
 ScummVM \
 Sega Gamegear \
 Sega Genesis \
 Sega Mastersystem \
-Sega Mega 32x / CD \
+Sega Mega 32x & CD \
 Sega Megadrive \
 Sega Saturn \
 Sega SG-1000 \
-Sinclair Zx Spectrum \
+Sinclair ZX Spectrum \
 Sony Playstation \
 Sony Playstation 2 \
-Sony Playstation Portable \
+Sony PSP \
 SuperGrafx \
 TurboGrafx-16 \
 Valve Steam \

@@ -10,10 +10,10 @@
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Amstrad CPC</text>
+    <text>Amstrad</text>
     <fontSize>0.21</fontSize>
     <origin>0 0</origin>
-    <pos>0.0916 0.1390</pos>
+    <pos>0.117 0.105</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">

@@ -3,19 +3,26 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Wonderswan Color</text>
   </text>
 </view>    
 
 <view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Wonderswan Color</text>
-    <fontSize>0.21</fontSize>
+  <text name="sys_line1" extra="true">
+    <text>Wonderswan</text>
+    <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.0916 0.1390</pos>
+    <pos>0.117 0.139</pos>
     <size>0 0</size>
-  </text> 
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Color</text>
+    <fontSize>0.185</fontSize>
+    <origin>0 0</origin>
+    <pos>0.117 0.145</pos>
+    <size>0 0</size>
+</text>
   <text name="shortdescription" extra="true">
    <text>1999  ·  16-bit Handheld Console</text>
   </text>

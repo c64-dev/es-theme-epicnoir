@@ -13,14 +13,14 @@
     <text>Sega</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.090 0.1760</pos>
+    <pos>0.117 0.139</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>Mega 32x</text>
     <fontSize>0.185</fontSize>
     <origin>0 0</origin>
-    <pos>0.088 0.184</pos>
+    <pos>0.117 0.145</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">

@@ -52,10 +52,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <type>vertical</type>
         <color>00000000</color>
         <origin>0 0</origin>
-        <pos>0.0917 0.1583</pos>
-        <size>0.278 0.219</size>
+        <pos>0.118 0.1550</pos>
+        <size>0.50 0.184</size>
         <logoScale>1</logoScale>
-        <logoSize>0.278 0.219</logoSize>
+        <logoSize>0.40 0.184</logoSize>
         <maxLogoCount>0</maxLogoCount>
     </carousel>
     
@@ -80,7 +80,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.028</fontSize>
         <color>9b9a9a</color>
         <origin>0 0</origin>
-        <pos>0.12 0.1055</pos>
+        <pos>0.117 0.0959</pos>
         <size>0.320 0.033</size>
     </text>
 
@@ -91,7 +91,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>
-        <pos>0.12 0.3611</pos>
+        <pos>0.117 0.350</pos>
         <size>0.200 0.039</size>
         <fontSize>0.0315</fontSize>
     </text>
@@ -104,16 +104,16 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>8F8F8F</color>
         <lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
-        <pos>0.12 0.360</pos>
-        <size>0.28 0.20</size>
+        <pos>0.117 0.4</pos>
+        <size>0.33 0.09</size>
     </text>
 
     <image name="buttonA" extra="true">
 		<path>./_art/var/button.svg</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.12 0.545</pos>
-        <size>0 0.044</size>
+        <pos>0.117 0.518</pos>
+        <size>0 0.0391</size>
     </image>
 
     <helpsystem name="help">
@@ -129,8 +129,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <path>./_art/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.12 0.61</pos>
-        <maxSize>0.32 0.32</maxSize>
+        <pos>0.117 0.578</pos>
+        <maxSize>0.37 0.37</maxSize>
     </image>
 </view>
 
@@ -291,13 +291,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>00000000</color>
     </text>
         
-    <text name="md_lbl_releasedate, md_lbl_developer, md_developer, md_lbl_playcount, md_playcount, md_lbl_lastplayed, md_lastplayed, md_lbl_publisher, md_publsher">
+    <text name="md_lbl_releasedate, md_lbl_developer, md_developer, md_lbl_playcount, md_playcount, md_lbl_lastplayed, md_lbl_publisher, md_publsher">
         <origin>1 1</origin>
         <color>00000000</color>
         <pos>0 0</pos>
     </text>
 
-    <datetime name="md_releasedate">
+    <datetime name="md_releasedate, md_lastplayed">
         <origin>1 1</origin>
         <color>00000000</color>
         <pos>0 0</pos>

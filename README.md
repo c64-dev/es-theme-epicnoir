@@ -24,7 +24,7 @@ PROHIBITED:
 ### Please note:
 By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
 
-###### [back to top](#EpicNoir-theme)
+###### [back to top](#EpicNoir)
 
 ---
 
@@ -34,20 +34,19 @@ All credit should go out to Chicuelo for his hard work on the original theme, to
 
 Original thread for the Chicuelo theme can be found here: https://retropie.org.uk/forum/topic/15830/chicuelo-theme/882
 
-###### [back to top](#EpicNoir-theme)
+###### [back to top](#EpicNoir)
 
 ---
 
 ### Features
 
-* Commodore 64 system-wide colours and fonts
+* Dark and clean interface
 * New high quality wallpapers for all systems
-* Added details section in games list
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
 
-###### [back to top](#EpicNoir-theme)
+###### [back to top](#EpicNoir)
 
 ---
 
@@ -75,7 +74,7 @@ This theme supports video. You can also use a scraped image in conjunction with 
 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
-###### [back to top](#EpicNoir-theme)
+###### [back to top](#EpicNoir)
 
 ---
 
@@ -83,7 +82,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 ![Image]
 
-###### [back to top](#EpicNoir-theme)
+###### [back to top](#EpicNoir)
 
 ## Fully Supported Systems
 ###### (backgrounds, controller images, descriptions) :
@@ -150,4 +149,4 @@ x-68000 \
 Auto Collections
 Custom Collections (for when a user creates their own collection within ES)
 
-###### [back to top](#EpicNoir-theme)
+###### [back to top](#EpicNoir)

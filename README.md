@@ -1,4 +1,5 @@
-## EpicNoir RetroPie Theme
+## EpicNoir RetroPie Theme 
+# (4:3 screen ratio version)
 
 This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 
@@ -58,7 +59,7 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 3. Run in a terminal:
 
        cd ~/.emulationstation/themes
-       git clone https://github.com/c64-dev/es-epicnoir.git --branch master
+       git clone https://github.com/c64-dev/es-epicnoir.git --branch 43-version
 
 ### Update
 

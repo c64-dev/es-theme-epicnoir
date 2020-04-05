@@ -304,8 +304,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         </datetime>
         
     <helpsystem name="help">
-        <origin>1 1</origin><!--0 0-->
-        <pos>1 1</pos> <!--0.0890 0.6283-->
+        <origin>1 1</origin>
+        <pos>1 1</pos> 
     </helpsystem>
 </view>
 
@@ -313,7 +313,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <image name="md_image">
         <tile>false</tile>
         <origin>0.5 0.5</origin>
-        <pos>0.66 0.3915</pos><!-- 0.43 0.16 size 0.464 0.570 -->
+        <pos>0.66 0.42</pos>
         <maxSize>0.5 0.6</maxSize>
     </image>
 
@@ -323,8 +323,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <view name="video">
         <video name="md_video">
             <origin>0.5 0.5</origin>
-            <pos>0.6925 0.3915</pos>
-            <maxSize>0.4167 0.5556</maxSize>
+            <pos>0.66 0.42</pos>
+            <maxSize>0.5 0.6</maxSize>
             <delay>1.5</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>true</showSnapshotDelay>

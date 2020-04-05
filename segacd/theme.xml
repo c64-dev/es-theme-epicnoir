@@ -9,18 +9,11 @@
 </view>    
 
 <view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Sega</text>
-    <fontSize>0.048</fontSize>
-    <origin>0 0</origin>
-    <pos>0.117 0.139</pos>
-    <size>0 0</size>
-  </text>
   <text name="sys_line2" extra="true">
-    <text>Genesis CD</text>
-    <fontSize>0.185</fontSize>
+    <text>SEGA CD</text>
+    <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.117 0.145</pos>
+    <pos>0.12 0.130</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">

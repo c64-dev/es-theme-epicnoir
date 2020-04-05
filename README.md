@@ -1,5 +1,5 @@
 ## EpicNoir RetroPie Theme 
-**(4:3 screen ratio version)**
+### 4:3 Screen Ratio Version
 
 This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 
@@ -25,7 +25,7 @@ PROHIBITED:
 ### Please note:
 By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/c64-dev/es-epicnoir/blob/43-version/README.md#epicnoir-retropie-theme)
 
 ---
 
@@ -34,7 +34,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/c64-dev/es-epicnoir/blob/43-version/README.md#epicnoir-retropie-theme)
 
 ---
 
@@ -46,7 +46,7 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/c64-dev/es-epicnoir/blob/43-version/README.md#epicnoir-retropie-theme)
 
 ---
 
@@ -74,7 +74,7 @@ This theme supports video. You can also use a scraped image in conjunction with 
 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/c64-dev/es-epicnoir/blob/43-version/README.md#epicnoir-retropie-theme)
 
 ---
 
@@ -95,7 +95,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) 
 
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/c64-dev/es-epicnoir/blob/43-version/README.md#epicnoir-retropie-theme)
 
 ## Fully Supported Systems
 ###### (backgrounds, controller images, descriptions) :
@@ -159,4 +159,4 @@ x-68000
 Auto Collections
 Custom Collections (for when a user creates their own collection within ES)
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/c64-dev/es-epicnoir/blob/43-version/README.md#epicnoir-retropie-theme)

@@ -11,16 +11,16 @@
 <view name="system">
   <text name="sys_line1" extra="true">
     <text>Nintendo</text>
-    <fontSize>0.048</fontSize>
+    <fontSize>0.044</fontSize>
     <origin>0 0</origin>
-    <pos>0.117 0.139</pos>
+    <pos>0.08 0.170</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>GameCube</text>
-    <fontSize>0.185</fontSize>
+    <fontSize>0.16</fontSize>
     <origin>0 0</origin>
-    <pos>0.117 0.145</pos>
+    <pos>0.08 0.180</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">

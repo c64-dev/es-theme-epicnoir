@@ -6,17 +6,14 @@
     <text name="nameLabel" extra="true">
     <text>Power</text>
   </text>
-    <text name="systemInfo">
-   <text>Configuration</text>
-  </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
     <text>Power</text>
-    <fontSize>0.21</fontSize>
+    <fontSize>0.145</fontSize>
     <origin>0 0</origin>
-    <pos>0.117 0.105</pos>
+    <pos>0.08 0.16</pos>
     <size>0 0</size>
   </text> 
   <text name="shortdescription" extra="true">
@@ -24,9 +21,6 @@
   </text>
   <text name="longdescription" extra="true">
    <text>Safe option to Shut down or restart your System</text>
-  </text>
-  <text name="systemInfo">
-   <text>Configuration</text>
   </text>
  </view>
 </theme>

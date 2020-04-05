@@ -1,5 +1,5 @@
 <!--
-Theme name:  Epic Noir
+Theme name:  Epic Noir 4:3 ratio version
 Artwork by:  Nico La Rosa (Chicuelo) 
 Coding by:   Nick L (c64-dev)
 Website:     www.chicuelo.com.ar
@@ -29,12 +29,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <tile>false</tile>
         <origin>1 0</origin>
         <pos>1 0</pos>
-        <size>0 1</size>
+        <size>0.75 1</size>
     </image>
     
     <image name="indicator_bg" extra="true">
         <tile>false</tile>
-        <path>./_art/indicators/left-ray.svg</path>
+        <path>./_art/indicators/left-bar.png</path>
         <size>0 1</size>
         <pos>0 0</pos>
     </image>
@@ -44,15 +44,22 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <tile>false</tile>
         <color>F8F8F8</color>
         <origin>0 0</origin>
-        <pos>-0.002 0.15</pos>
+        <pos>-0.016 0.15</pos>
         <size>0 0.70</size>
      </image>
+     
+    <image name="indicator_line" extra="true">
+        <tile>false</tile>
+        <path>./_art/indicators/left-line.png</path>
+        <size>0 1</size>
+        <pos>0.055 0</pos>
+    </image>
 
     <carousel name="systemcarousel">
         <type>vertical</type>
         <color>00000000</color>
         <origin>0 0</origin>
-        <pos>0.118 0.1550</pos>
+        <pos>0.08 0.1550</pos>
         <size>0.50 0.184</size>
         <logoScale>1</logoScale>
         <logoSize>0.40 0.184</logoSize>
@@ -77,10 +84,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.028</fontSize>
+        <fontSize>0.022</fontSize>
         <color>9b9a9a</color>
         <origin>0 0</origin>
-        <pos>0.117 0.0959</pos>
+        <pos>0.08 0.14</pos>
         <size>0.320 0.033</size>
     </text>
 
@@ -91,28 +98,27 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>
-        <pos>0.117 0.350</pos>
+        <pos>0.08 0.352</pos>
         <size>0.200 0.039</size>
-        <fontSize>0.0315</fontSize>
+        <fontSize>0.027</fontSize>
     </text>
     
     <text name="longdescription" extra="true">
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.021</fontSize>
+        <fontSize>0.020</fontSize>
         <color>8F8F8F</color>
-        <lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
-        <pos>0.117 0.4</pos>
-        <size>0.33 0.09</size>
+        <pos>0.08 0.40</pos>
+        <size>0.41 0.11</size>
     </text>
 
     <image name="buttonA" extra="true">
 		<path>./_art/var/button.svg</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.117 0.518</pos>
+        <pos>0.08 0.53</pos>
         <size>0 0.0391</size>
     </image>
 
@@ -129,8 +135,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <path>./_art/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.117 0.578</pos>
-        <maxSize>0.37 0.37</maxSize>
+        <pos>0.08 0.60</pos>
+        <maxSize>0.35 0.35</maxSize>
     </image>
 </view>
 
@@ -153,7 +159,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.8513</size>
-        <fontSize>0.03</fontSize>
+        <fontSize>0.026</fontSize>
         <lineSpacing>1.683</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
@@ -304,8 +310,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         </datetime>
         
     <helpsystem name="help">
-        <origin>1 1</origin>
-        <pos>1 1</pos> 
+        <origin>1 1</origin><!--0 0-->
+        <pos>1 1</pos> <!--0.0890 0.6283-->
     </helpsystem>
 </view>
 
@@ -313,7 +319,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <image name="md_image">
         <tile>false</tile>
         <origin>0.5 0.5</origin>
-        <pos>0.66 0.42</pos>
+        <pos>0.66 0.42</pos><!-- 0.43 0.16 size 0.464 0.570 -->
         <maxSize>0.5 0.6</maxSize>
     </image>
 

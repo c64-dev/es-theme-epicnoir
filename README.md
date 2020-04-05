@@ -1,5 +1,5 @@
 ## EpicNoir RetroPie Theme 
-# (4:3 screen ratio version)
+**(4:3 screen ratio version)**
 
 This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 

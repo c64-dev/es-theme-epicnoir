@@ -280,7 +280,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.0186</fontSize>
         <color>ffffff</color>
         <origin>0 0</origin>
-        <pos>0.429 0.720</pos>
+        <pos>0.429 0.724</pos>
         <size>0.06 0.07</size>
     </text> 
         
@@ -324,8 +324,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <video name="md_video">
             <origin>0.5 0.5</origin>
             <pos>0.66 0.42</pos>
-            <maxSize>0.5 0.6</maxSize>
-            <delay>1.5</delay>
+            <maxSize>0.52 0.63</maxSize>
+            <delay>2</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>true</showSnapshotDelay>
         </video>

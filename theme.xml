@@ -32,7 +32,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0 1</size>
     </image>
     
-    <image name="indicator_bg" extra="true">
+    <!-- <image name="indicator_bg" extra="true">
         <tile>false</tile>
         <path>./_art/indicators/left-ray.svg</path>
         <size>0 1</size>
@@ -46,7 +46,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <origin>0 0</origin>
         <pos>-0.002 0.15</pos>
         <size>0 0.70</size>
-     </image>
+     </image> -->
 
     <carousel name="systemcarousel">
         <type>vertical</type>

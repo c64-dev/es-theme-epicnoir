@@ -1,4 +1,4 @@
-# EpicNoir RetroPie Theme
+# NotSoEpicNoir RetroPie Theme
 
 This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 
@@ -28,7 +28,7 @@ PROHIBITED:
 
 By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
 
-[back to top](#epicnoir-retropie-theme)
+[back to top](#notsoepicnoir-retropie-theme)
 
 ---
 
@@ -37,7 +37,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 All original artwork belongs to the many artists who devoted their talents and time into making them.
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-[back to top](#epicnoir-retropie-theme)
+[back to top](#notsoepicnoir-retropie-theme)
 
 ---
 
@@ -49,7 +49,7 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 - Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 - Support for screenshots/boxart and/or video.
 
-[back to top](#epicnoir-retropie-theme)
+[back to top](#notsoepicnoir-retropie-theme)
 
 ---
 
@@ -77,7 +77,7 @@ This theme supports video. You can also use a scraped image in conjunction with 
 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
-[back to top](#epicnoir-retropie-theme)
+[back to top](#notsoepicnoir-retropie-theme)
 
 ---
 
@@ -97,7 +97,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Sample12](./_art/samples/012.jpg) \
 ![Sample13](./_art/samples/013.jpg)
 
-[back to top](#epicnoir-retropie-theme)
+[back to top](#notsoepicnoir-retropie-theme)
 
 ## Fully Supported Systems
 
@@ -158,6 +158,6 @@ x-68000
 
 **Collections:** \
 Auto Collections
-Custom Collections (for when a user creates their own collection within ES)
+Custom Collections for when a user creates their own collection within Emulation Station
 
-[back to top](#epicnoir-retropie-theme)
+[back to top](#notsoepicnoir-retropie-theme)

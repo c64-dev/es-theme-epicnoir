@@ -1,33 +1,31 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
-
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>GameBoy Color</text>
-  </text>
-</view>    
-
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>GameBoy</text>
-    <fontSize>0.048</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
-    <size>0 0</size>
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Color</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
-    <size>0 0</size>
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1998  ·  8-bit Handheld Console</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</text>
-  </text>
- </view>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="basic, detailed, video, grid">
+        <text name="nameLabel" extra="true">
+            <text>GameBoy Color</text>
+        </text>
+    </view>
+    <view name="system">
+        <text name="sys_line1" extra="true">
+            <text>GameBoy</text>
+            <fontSize>0.048</fontSize>
+            <origin>0 0</origin>
+            <pos>0.12 0.142</pos>
+            <size>0 0</size>
+        </text>
+        <text name="sys_line2" extra="true">
+            <text>Color</text>
+            <fontSize>0.18</fontSize>
+            <origin>0 0</origin>
+            <pos>0.12 0.16</pos>
+            <size>0 0</size>
+        </text>
+        <text name="shortdescription" extra="true">
+            <text>1998  ·  8-bit Handheld Console</text>
+        </text>
+        <text name="longdescription" extra="true">
+            <text>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</text>
+        </text>
+    </view>
 </theme>

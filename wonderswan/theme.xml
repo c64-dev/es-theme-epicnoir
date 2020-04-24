@@ -1,26 +1,24 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
-
-<view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
-    <text>Wonderswan</text>
-  </text>
-</view>    
-
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Wonderswan</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
-    <size>0 0</size>
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>1999  ·  16-bit Handheld Console</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Powered by a 16 bit central processing unit, it took advantage of a low price point and long battery life in comparison to its competition</text>
-  </text>
- </view>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="basic, detailed, video, grid">
+        <text name="nameLabel" extra="true">
+            <text>Wonderswan</text>
+        </text>
+    </view>
+    <view name="system">
+        <text name="sys_line2" extra="true">
+            <text>Wonderswan</text>
+            <fontSize>0.18</fontSize>
+            <origin>0 0</origin>
+            <pos>0.12 0.130</pos>
+            <size>0 0</size>
+        </text>
+        <text name="shortdescription" extra="true">
+            <text>1999  ·  16-bit Handheld Console</text>
+        </text>
+        <text name="longdescription" extra="true">
+            <text>Powered by a 16 bit central processing unit, it took advantage of a low price point and long battery life in comparison to its competition</text>
+        </text>
+    </view>
 </theme>

@@ -1,33 +1,31 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
-
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>Neo Geo Pocket Color</text>
-  </text>
-</view>    
-
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Neo Geo</text>
-    <fontSize>0.048</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
-    <size>0 0</size>
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Pocket Color</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
-    <size>0 0</size>
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1999  ·  16-bit Handheld Console</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
-  </text>
- </view>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="basic, detailed, video, grid">
+        <text name="nameLabel" extra="true">
+            <text>Neo Geo Pocket Color</text>
+        </text>
+    </view>
+    <view name="system">
+        <text name="sys_line1" extra="true">
+            <text>Neo Geo</text>
+            <fontSize>0.048</fontSize>
+            <origin>0 0</origin>
+            <pos>0.12 0.142</pos>
+            <size>0 0</size>
+        </text>
+        <text name="sys_line2" extra="true">
+            <text>Pocket Color</text>
+            <fontSize>0.18</fontSize>
+            <origin>0 0</origin>
+            <pos>0.12 0.16</pos>
+            <size>0 0</size>
+        </text>
+        <text name="shortdescription" extra="true">
+            <text>1999  ·  16-bit Handheld Console</text>
+        </text>
+        <text name="longdescription" extra="true">
+            <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
+        </text>
+    </view>
 </theme>

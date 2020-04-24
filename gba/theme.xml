@@ -1,33 +1,31 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
-
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>GameBoy Advance</text>
-  </text>
-</view>    
-
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>GameBoy</text>
-    <fontSize>0.048</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
-    <size>0 0</size>
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Advance</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
-    <size>0 0</size>
-</text>
-  <text name="shortdescription" extra="true">
-   <text>2001  ·  32-bit Handheld Console</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
-  </text>
- </view>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="basic, detailed, video, grid">
+        <text name="nameLabel" extra="true">
+            <text>GameBoy Advance</text>
+        </text>
+    </view>
+    <view name="system">
+        <text name="sys_line1" extra="true">
+            <text>GameBoy</text>
+            <fontSize>0.048</fontSize>
+            <origin>0 0</origin>
+            <pos>0.12 0.142</pos>
+            <size>0 0</size>
+        </text>
+        <text name="sys_line2" extra="true">
+            <text>Advance</text>
+            <fontSize>0.18</fontSize>
+            <origin>0 0</origin>
+            <pos>0.12 0.16</pos>
+            <size>0 0</size>
+        </text>
+        <text name="shortdescription" extra="true">
+            <text>2001  ·  32-bit Handheld Console</text>
+        </text>
+        <text name="longdescription" extra="true">
+            <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
+        </text>
+    </view>
 </theme>

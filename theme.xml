@@ -28,7 +28,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>1 0</pos>
             <size>0 1</size>
         </image>
-        <!-- <image name="indicator_bg" extra="true"><tile>false</tile><path>./_art/indicators/left-ray.svg</path><size>0 1</size><pos>0 0</pos></image><image name="indicator" extra="true"><path>./_art/indicators/${system.theme}.png</path><tile>false</tile><color>F8F8F8</color><origin>0 0</origin><pos>-0.002 0.15</pos><size>0 0.70</size></image>-->
         <carousel name="systemcarousel">
             <type>vertical</type>
             <color>00000000</color>
@@ -94,9 +93,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <fontPath>./_art/Acre.otf</fontPath>
             <fontSize>0.02</fontSize>
             <origin>1 1</origin>
-            <!--0 0-->
             <pos>0 0</pos>
-            <!--0.0890 0.6283-->
             <textColor>F8F8F8</textColor>
             <iconColor>F8F8F8</iconColor>
         </helpsystem>

@@ -1,6 +1,6 @@
 # NotSoEpicNoir RetroPie Theme
 
-This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
+This is a modern dark RetroPie theme based on [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). Not So Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
 
 ---
 
@@ -62,13 +62,13 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 3. Run in a terminal:
 
        cd ~/.emulationstation/themes
-       git clone https://github.com/c64-dev/es-epicnoir.git --branch master
+       git clone https://github.com/hoover900/es-theme-notsoepicnoir.git --branch master
 
 ### Update
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
-    cd ~/.emulationstation/themes/es-epicnoir
+    cd ~/.emulationstation/themes/es-theme-notsoepicnoir
     git pull
 
 ## Theme Notes

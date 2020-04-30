@@ -126,16 +126,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <lineSpacing>1.683</lineSpacing>
             <horizontalMargin>0.02864</horizontalMargin>
         </textlist>
-        <text name="top_label" extra="true">
-            <fontPath>./_art/Acre.otf</fontPath>
-            <text>Select Game</text>
+        <image name="logo" extra="true">
+            <path>../${system.theme}/art/logo.svg</path>
             <alignment>left</alignment>
-            <color>F8F8F8</color>
-            <fontSize>0.034</fontSize>
             <origin>0 0</origin>
             <pos>0.029 0</pos>
             <size>0.20 0.08</size>
-        </text>
+        </image>
         <text name="nameLabel" extra="true">
             <fontPath>./_art/Acre.otf</fontPath>
             <alignment>left</alignment>

@@ -11,14 +11,14 @@
             <text>GameBoy</text>
             <fontSize>0.048</fontSize>
             <origin>0 0</origin>
-            <pos>0.082 0.142</pos>
+            <pos>0.082 0.08</pos>
             <size>0 0</size>
         </text>
         <text name="sys_line2" extra="true">
             <text>Color</text>
             <fontSize>0.18</fontSize>
             <origin>0 0</origin>
-            <pos>0.082 0.16</pos>
+            <pos>0.082 0.088</pos>
             <size>0 0</size>
         </text>
         <text name="shortdescription" extra="true">

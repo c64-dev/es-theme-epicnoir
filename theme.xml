@@ -127,7 +127,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <horizontalMargin>0.02864</horizontalMargin>
         </textlist>
         <image name="logo" extra="true">
-            <path>../${system.theme}/art/logo.svg</path>
+            <path>./${system.theme}/art/logo.svg</path>
+            <tile>false</tile>
             <alignment>left</alignment>
             <origin>0 0</origin>
             <pos>0.029 0</pos>

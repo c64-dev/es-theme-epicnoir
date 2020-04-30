@@ -32,11 +32,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <carousel name="systemcarousel">
             <type>vertical</type>
             <color>00000000</color>
-            <origin>0 0</origin>
-            <pos>0.0917 0.1583</pos>
-            <size>0.278 0.219</size>
+            <origin>1 1</origin>
+            <pos>1 1</pos>
+            <size>0.01 0.01</size>
             <logoScale>1</logoScale>
-            <logoSize>0.278 0.219</logoSize>
+            <logoSize>0.01 0.01</logoSize>
             <maxLogoCount>0</maxLogoCount>
         </carousel>
         <text name="sys_line1" extra="true">

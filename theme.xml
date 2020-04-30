@@ -22,7 +22,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>0 0</origin>
         </image>
         <image name="poster" extra="true">
-            <path>./${system.theme}/art/posters/${system.theme}.jpg</path>
+            <path>./${system.theme}/art/posters.jpg</path>
             <tile>false</tile>
             <origin>1 0</origin>
             <pos>1 0</pos>
@@ -101,7 +101,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <iconColor>F8F8F8</iconColor>
         </helpsystem>
         <image name="controller" extra="true">
-            <path>./${system.theme}/art/controllers/${system.theme}.png</path>
+            <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
             <origin>0 0</origin>
             <pos>0.08 0.56</pos>
@@ -111,7 +111,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <view name="basic, detailed, video">
         <image name="background" extra="true">
             <tile>false</tile>
-            <path>./${system.theme}/art/background/${system.theme}.jpg</path>
+            <path>./${system.theme}/art/background.jpg</path>
             <size>1 1</size>
             <pos>0 0</pos>
         </image>

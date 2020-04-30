@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>COMMODORE VIC-20</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>VIC-20</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.130</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1980  ·  8-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The VIC-20 was the first computer of any description to sell one million units.</text>
+  </text>
+ </view>
+</theme>

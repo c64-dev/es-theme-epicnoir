@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>CAPCOM SYSTEM III</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>CAPCOM</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>SYSTEM III</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1996  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</text>
+  </text>
+ </view>
+</theme>

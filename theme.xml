@@ -126,15 +126,25 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <lineSpacing>1.683</lineSpacing>
             <horizontalMargin>0.02864</horizontalMargin>
         </textlist>
+        <!-- TODO: Make system all logos white -->
         <image name="logo" extra="true">
             <path>./${system.theme}/art/logo.svg</path>
             <tile>false</tile>
+            <origin>0 0</origin>
+            <pos>0.429 0</pos>
+            <maxSize>0.20 0.08</maxSize>
+        </image>
+<!--         <text name="top_label" extra="true">
+            <fontPath>./_art/Acre.otf</fontPath>
+            <text>Select Game</text>
             <alignment>left</alignment>
+            <color>F8F8F8</color>
+            <fontSize>0.034</fontSize>
             <origin>0 0</origin>
             <pos>0.029 0</pos>
             <size>0.20 0.08</size>
-        </image>
-        <text name="nameLabel" extra="true">
+        </text>
+        <image name="nameLabel" extra="true">
             <fontPath>./_art/Acre.otf</fontPath>
             <alignment>left</alignment>
             <forceUppercase>1</forceUppercase>
@@ -143,7 +153,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>0 0</origin>
             <pos>0.429 0</pos>
             <size>0.40 0.075</size>
-        </text>
+        </text> -->
         <text name="md_description">
             <fontPath>./_art/Acre.otf</fontPath>
             <color>818181</color>

@@ -58,7 +58,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <fontSize>0.021</fontSize>
             <color>9b9a9a</color>
             <origin>0 0</origin>
-            <pos>0.08 0.4</pos>
+            <pos>0.08 0.345</pos>
             <size>0.320 0.033</size>
         </text>
         <text name="systemInfo">
@@ -68,7 +68,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <forceUppercase>1</forceUppercase>
             <color>A3332D</color>
             <origin>0 0</origin>
-            <pos>0.08 0.344</pos>
+            <pos>0.08 0.272</pos>
             <size>0.200 0.039</size>
             <fontSize>0.0315</fontSize>
         </text>
@@ -80,7 +80,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <color>8F8F8F</color>
             <lineSpacing>1.18</lineSpacing>
             <origin>0 0</origin>
-            <pos>0.08 0.372</pos>
+            <pos>0.08 0.322</pos>
             <size>0.28 0.20</size>
         </text>
         <image name="buttonA" extra="true">
@@ -111,7 +111,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <view name="basic, detailed, video">
         <image name="background" extra="true">
             <tile>false</tile>
-            <path>./_art/ingame-global-bg.jpg</path>
+            <path>./${system.theme}/art/${system.theme}_art_blur.jpg</path>
             <size>1 1</size>
             <pos>0 0</pos>
         </image>

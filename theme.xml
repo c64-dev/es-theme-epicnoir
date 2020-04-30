@@ -22,7 +22,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>0 0</origin>
         </image>
         <image name="poster" extra="true">
-            <path>./${system.theme}/art/posters.jpg</path>
+            <path>./${system.theme}/art/poster.jpg</path>
             <tile>false</tile>
             <origin>1 0</origin>
             <pos>1 0</pos>

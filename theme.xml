@@ -134,6 +134,26 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.029 0.009</pos>
             <maxSize>0.20 0.08</maxSize>
         </image>
+         <text name="top_label" extra="true">
+            <fontPath>./_art/Acre.otf</fontPath>
+            <text>Select Game</text>
+            <alignment>left</alignment>
+            <color>F8F8F8</color>
+            <fontSize>0.034</fontSize>
+            <origin>0 0</origin>
+            <pos>0.029 0</pos>
+            <size>0.20 0.08</size>
+       </text>
+<!--        <text name="nameLabel" extra="true">
+            <fontPath>./_art/Acre.otf</fontPath>
+            <alignment>left</alignment>
+            <forceUppercase>1</forceUppercase>
+            <color>ffffff</color>
+            <fontSize>0.036</fontSize>
+            <origin>0 0</origin>
+            <pos>0.429 0</pos>
+            <size>0.40 0.075</size>
+        </text> -->
         <text name="md_description">
             <fontPath>./_art/Acre.otf</fontPath>
             <color>818181</color>

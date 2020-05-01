@@ -38,13 +38,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <logoSize>0.01 0.01</logoSize>
             <maxLogoCount>0</maxLogoCount>
         </carousel>
-        <text name="sys_line1" extra="true">
-            <fontPath>./_art/BebasNeue.otf</fontPath>
-            <alignment>left</alignment>
-            <forceUppercase>1</forceUppercase>
-            <color>FFFFFF</color>
-        </text>
-        <text name="sys_line2" extra="true">
+        <text name="sys_line1", "sys_line2" extra="true">
             <fontPath>./_art/BebasNeue.otf</fontPath>
             <alignment>left</alignment>
             <forceUppercase>1</forceUppercase>
@@ -89,14 +83,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.9 0.92</pos>
             <size>0 0.044</size>
         </image>
-        <helpsystem name="help">
+<!--         <helpsystem name="help">
             <fontPath>./_art/Acre.otf</fontPath>
             <fontSize>0.02</fontSize>
             <origin>1 1</origin>
             <pos>0 0</pos>
             <textColor>F8F8F8</textColor>
             <iconColor>F8F8F8</iconColor>
-        </helpsystem>
+        </helpsystem> -->
         <image name="controller" extra="true">
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
@@ -134,7 +128,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.029 0.009</pos>
             <maxSize>0.20 0.08</maxSize>
         </image>
-         <text name="top_label" extra="true">
+<!--          <text name="top_label" extra="true">
             <fontPath>./_art/Acre.otf</fontPath>
             <text>Select Game</text>
             <alignment>left</alignment>
@@ -143,7 +137,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>0 0</origin>
             <pos>0.029 0</pos>
             <size>0.20 0.08</size>
-       </text>
+       </text> -->
 <!--        <text name="nameLabel" extra="true">
             <fontPath>./_art/Acre.otf</fontPath>
             <alignment>left</alignment>
@@ -244,7 +238,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <size>0.06 0.07</size>
         </text>
         <!-- Hidden Elements -->
-        <text name="shortdescription, longdescription" extra="true">
+<!--         <text name="shortdescription, longdescription" extra="true">
             <origin>1 1</origin>
             <pos>0 0</pos>
             <color>00000000</color>
@@ -262,7 +256,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <helpsystem name="help">
             <origin>1 1</origin>
             <pos>1 1</pos>
-        </helpsystem>
+        </helpsystem> -->
     </view>
     <view name="basic, detailed, grid">
         <image name="md_image">

@@ -248,7 +248,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <image name="md_image">
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.66 0.42</pos>
+            <pos>0.66 0.4</pos>
             <maxSize>0.6 0.63</maxSize>
         </image>
     </view>

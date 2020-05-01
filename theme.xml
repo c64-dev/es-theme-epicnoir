@@ -256,7 +256,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <view name="video">
             <video name="md_video">
                 <origin>0.5 0.5</origin>
-                <pos>0.66 0.42</pos>
+                <pos>0.66 0.4</pos>
                 <maxSize>0.6 0.63</maxSize>
                 <delay>2</delay>
                 <showSnapshotNoVideo>true</showSnapshotNoVideo>

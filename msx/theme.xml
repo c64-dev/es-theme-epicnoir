@@ -1,11 +1,11 @@
 <theme>
     <formatVersion>4</formatVersion>
     <include>./../theme.xml</include>
-    <view name="basic, detailed, video, grid">
+<!--     <view name="basic, detailed, video, grid">
         <text name="nameLabel" extra="true">
             <text>MSX</text>
         </text>
-    </view>
+    </view> -->
     <view name="system">
         <text name="sys_line2" extra="true">
             <text>MSX</text>

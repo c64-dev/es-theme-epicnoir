@@ -2,16 +2,23 @@
     <formatVersion>4</formatVersion>
     <include>./../theme.xml</include>
     <view name="basic, detailed, video, grid">
-        <text name="nameLabel" extra="true">
-            <text>Custom Collection</text>
-        </text>
+         <text name="top_label" extra="true">
+            <fontPath>./../_art/Acre.otf</fontPath>
+            <text>Select Game</text>
+            <alignment>left</alignment>
+            <color>F8F8F8</color>
+            <fontSize>0.034</fontSize>
+            <origin>0 0</origin>
+            <pos>0.029 0</pos>
+            <size>0.20 0.08</size>
+       </text>
     </view>
     <view name="system">
         <text name="sys_line2" extra="true">
             <text>Custom</text>
             <fontSize>0.18</fontSize>
             <origin>0 0</origin>
-            <pos>0.12 0.130</pos>
+            <pos>0.082 0.088</pos>
             <size>0 0</size>
         </text>
         <text name="shortdescription" extra="true">

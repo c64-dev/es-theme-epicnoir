@@ -126,26 +126,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <lineSpacing>1.683</lineSpacing>
             <horizontalMargin>0.02864</horizontalMargin>
         </textlist>
-        <text name="top_label" extra="true">
-            <fontPath>./_art/Acre.otf</fontPath>
-            <text>Select Game</text>
-            <alignment>left</alignment>
-            <color>F8F8F8</color>
-            <fontSize>0.034</fontSize>
-            <origin>0 0</origin>
-            <pos>0.029 0</pos>
-            <size>0.20 0.08</size>
-        </text>
-        <text name="nameLabel" extra="true">
-            <fontPath>./_art/Acre.otf</fontPath>
-            <alignment>left</alignment>
-            <forceUppercase>1</forceUppercase>
-            <color>ffffff</color>
-            <fontSize>0.036</fontSize>
-            <origin>0 0</origin>
-            <pos>0.429 0</pos>
-            <size>0.40 0.075</size>
-        </text>
+        <!-- TODO: Make system all logos white -->
+        <image name="logo" extra="true">
+            <path>./${system.theme}/art/logo.svg</path>
+            <tile>false</tile>
+            <origin>0.5 0.5</origin>
+            <pos>0.115 0.04</pos>
+            <maxSize>0.215 0.064</maxSize>
+        </image>
         <text name="md_description">
             <fontPath>./_art/Acre.otf</fontPath>
             <color>818181</color>
@@ -260,16 +248,16 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <image name="md_image">
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.66 0.42</pos>
-            <maxSize>0.6 0.63</maxSize>
+            <pos>0.66 0.38</pos>
+            <maxSize>0.64 0.64</maxSize>
         </image>
     </view>
     <feature supported="video">
         <view name="video">
             <video name="md_video">
                 <origin>0.5 0.5</origin>
-                <pos>0.66 0.42</pos>
-                <maxSize>0.6 0.63</maxSize>
+                <pos>0.66 0.38</pos>
+                <maxSize>0.64 0.64</maxSize>
                 <delay>2</delay>
                 <showSnapshotNoVideo>true</showSnapshotNoVideo>
                 <showSnapshotDelay>true</showSnapshotDelay>

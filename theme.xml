@@ -131,8 +131,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./${system.theme}/art/logo.svg</path>
             <tile>false</tile>
             <origin>0 0</origin>
-            <pos>0.029 0.009</pos>
-            <maxSize>0.20 0.08</maxSize>
+            <pos>0.01 0.001</pos>
+            <maxSize>0.08 0.06</maxSize>
         </image>
         <text name="md_description">
             <fontPath>./_art/Acre.otf</fontPath>

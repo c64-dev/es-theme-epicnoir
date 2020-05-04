@@ -134,6 +134,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.01 0.01</pos>
             <maxSize>0.22 0.08</maxSize>
         </image>
+        <image name="logo_helper" extra="true">
+            <path>./_working files/helper.PNG</path>
+            <origin>0.5 0.5</origin>
+            <pos>0.01 0.01</pos>
+            <maxSize>0.22 0.08</maxSize>
+            <color>ff0000aa</color>
+        </image>
         <text name="md_description">
             <fontPath>./_art/Acre.otf</fontPath>
             <color>818181</color>

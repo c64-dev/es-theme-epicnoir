@@ -4,7 +4,7 @@
     <view name="basic, detailed, video, grid">
          <text name="top_label" extra="true">
             <fontPath>./../_art/Acre.otf</fontPath>
-            <text>Select Game</text>
+            <text>Last Played</text>
             <alignment>left</alignment>
             <color>F8F8F8</color>
             <fontSize>0.034</fontSize>

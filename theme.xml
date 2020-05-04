@@ -137,7 +137,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <image name="logo_helper" extra="true">
             <path>./_working files/helper.PNG</path>
             <origin>0.5 0.5</origin>
-            <pos>0.16 0.03</pos>
+            <pos>0.12 0.04</pos>
             <size>0.215 0.064</size>
             <color>ff0000aa</color>
         </image>

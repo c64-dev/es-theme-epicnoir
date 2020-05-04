@@ -132,7 +132,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0 0</origin>
             <pos>0.01 0.01</pos>
-            <maxSize>0.22 0.12</maxSize>
+            <maxSize>0.22 0.08</maxSize>
         </image>
         <text name="md_description">
             <fontPath>./_art/Acre.otf</fontPath>

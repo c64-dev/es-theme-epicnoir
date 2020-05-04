@@ -130,15 +130,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <image name="logo" extra="true">
             <path>./${system.theme}/art/logo.svg</path>
             <tile>false</tile>
-            <alignment>center</alignment>
             <origin>0 0</origin>
             <pos>0.01 0.01</pos>
             <maxSize>0.215 0.064</maxSize>
         </image>
         <image name="logo_helper" extra="true">
             <path>./_working files/helper.PNG</path>
-            <origin>0 0</origin>
-            <pos>0.01 0.01</pos>
+            <origin>0.5 0.5</origin>
+            <pos>0.02 0.02</pos>
             <size>0.215 0.064</size>
             <color>ff0000aa</color>
         </image>

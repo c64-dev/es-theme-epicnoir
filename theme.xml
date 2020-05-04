@@ -138,7 +138,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_working files/helper.PNG</path>
             <origin>0 0</origin>
             <pos>0.01 0.01</pos>
-            <maxSize>0.22 0.08</maxSize>
+            <size>0.195 0.075</size>
             <color>ff0000aa</color>
         </image>
         <text name="md_description">

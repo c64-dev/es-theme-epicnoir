@@ -8,7 +8,7 @@ This is a modern dark RetroPie theme based on the [original theme by Chicuelo an
 
 - Dark and clean interface
 - New high quality wallpapers for all systems
-- Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
+- Collections for 'All Games', 'Favorites', 'Last Played' and some 'Custom Collections' are supported
 - Support for screenshots/boxart and/or video.
 
 [back to top](#notsoepicnoir-retropie-theme)

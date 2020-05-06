@@ -1,6 +1,6 @@
 # NotSoEpicNoir RetroPie Theme
 
-This is a modern dark RetroPie theme based on [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). Not So Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
+This is a modern dark RetroPie theme based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). Not So Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
 
 ---
 

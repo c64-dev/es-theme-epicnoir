@@ -1,18 +1,12 @@
 <theme>
     <formatVersion>4</formatVersion>
     <include>./../theme.xml</include>
-<!--     <view name="basic, detailed, video, grid">
-        <text name="nameLabel" extra="true">
-            <text>Sega Genesis</text>
-        </text>
-    </view> -->
-    <view name="system">
-        <image name="background" extra="true">
-            <path>./art/megadrive_art_blur.jpg</path>
-        </image>
+    <view name="basic, detailed, video, grid">
         <image name="logo">
-            <path>./art/megadrive.svg</path>
+            <path>./art/logo.svg</path>
         </image>
+    </view>
+    <view name="system">
         <text name="sys_line1" extra="true">
             <text>Sega</text>
             <fontSize>0.048</fontSize>

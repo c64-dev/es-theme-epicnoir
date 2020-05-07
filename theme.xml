@@ -126,9 +126,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <lineSpacing>1.683</lineSpacing>
             <horizontalMargin>0.02864</horizontalMargin>
         </textlist>
-        <!-- TODO: Make system all logos white -->
-        <image name="logo" extra="true">
-            <path>./${system.theme}/art/logo.svg</path>
+<!--    <image name="logo" extra="true"> -->
+<!--    Shouldn't need the extra part for a logo tag based on other themes -->
+        <image name="logo">
+<!--        <path>./${system.theme}/art/logo.svg</path> -->
             <tile>false</tile>
             <origin>0.5 0.5</origin>
             <pos>0.115 0.04</pos>

@@ -8,7 +8,7 @@
     </view>
     <view name="system">
         <text name="sys_line2" extra="true">
-            <text>PC Engine CD</text>
+            <text>PC-Engine CD</text>
             <fontSize>0.18</fontSize>
             <origin>0 0</origin>
             <pos>0.082 0.088</pos>
@@ -18,7 +18,7 @@
             <text>1988  ·  16-bit Console</text>
         </text>
         <text name="longdescription" extra="true">
-            <text>Add-on attachment for the PC Engine. The add-on allows core versions of the console to play PC Engine games in CD-ROM format</text>
+            <text>Add-on attachment for the PC-Engine. The add-on allows core versions of the console to play PC-Engine games in CD-ROM format</text>
         </text>
     </view>
 </theme>

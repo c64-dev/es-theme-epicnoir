@@ -93,7 +93,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0 0.5</origin>
-            <pos>0.9 0</pos>
+            <pos>0 0.9</pos>
             <maxSize>1 1</maxSize>
         </image>
         <helpsystem name="help">

@@ -86,7 +86,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/button.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.94 0.95.5</pos>
+            <pos>0.94.5 0.95.5</pos>
             <size>0 0.044</size>
             <zIndex>50</zIndex>
         </image>

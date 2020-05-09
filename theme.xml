@@ -94,7 +94,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0.5 0.92</origin>
             <pos>0 0</pos>
-             <size>0 0.044</size>
+             <size>1 1</size>
         </image>
         <helpsystem name="help">
             <fontPath>./_art/Acre.otf</fontPath>

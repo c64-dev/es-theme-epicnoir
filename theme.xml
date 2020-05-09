@@ -85,8 +85,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <image name="buttonA" extra="true">
             <path>./_art/var/button.svg</path>
             <tile>false</tile>
-            <origin>1 1</origin>
-            <pos>-0.05 0.05</pos>
+            <origin>0.5 0.5</origin>
+            <pos>0.90 0.96</pos>
             <size>0 0.044</size>
             <zIndex>50</zIndex>
         </image>
@@ -94,7 +94,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.5 0.05</pos>
+            <pos>0.4 0.04</pos>
             <size>0 0.044</size>
             <rotation>180</rotation>
             <zIndex>50</zIndex>

@@ -92,9 +92,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <image name="arrow" extra="true">
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
-            <origin>0 0.5</origin>
-            <pos>0 0.9</pos>
-            <maxSize>1 1</maxSize>
+            <origin>0.5 0.92</origin>
+            <pos>0 0</pos>
+             <size>0 0.044</size>
         </image>
         <helpsystem name="help">
             <fontPath>./_art/Acre.otf</fontPath>

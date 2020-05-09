@@ -90,7 +90,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <size>0 0.044</size>
             <zIndex>50</zIndex>
         </image>
-        <image name="topArrow" extra="static">
+        <image name="topArrow" extra="true">
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0 0</origin>

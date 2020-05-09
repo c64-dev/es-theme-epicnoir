@@ -89,7 +89,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.9 0.92</pos>
             <size>0 0.044</size>
         </image>
-        <image name="buttonA" extra="true">
+        <image name="arrow" extra="true">
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0 0.5</origin>

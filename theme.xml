@@ -121,7 +121,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>0 0.5</origin>
             <pos>0.08 0.7</pos>
             <size>0 .42</size>
-            <visible>true</visible>
+            <visible>false</visible>
         </image>
         <image name="controller" extra="true">
             <path>./${system.theme}/art/controller.png</path>

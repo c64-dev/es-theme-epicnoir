@@ -119,16 +119,16 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/helper.svg</path>
             <tile>false</tile>
             <origin>0 0.5</origin>
-            <pos>0.08 0.75</pos>
-            <size>0 .42</size>
+            <pos>0.08 0.775</pos>
+            <size>0 .43</size>
             <visible>false</visible>
         </image>
         <image name="controller" extra="true">
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
             <origin>0 0.5</origin>
-            <pos>0.08 0.75</pos>
-            <size>0 .42</size>
+            <pos>0.08 0.775</pos>
+            <size>0 .43</size>
         </image>
 
     </view>

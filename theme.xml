@@ -94,7 +94,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.18 0.045</pos>
+            <pos>0.19 0.045</pos>
             <size>0 0.035</size>
             <rotation>180</rotation>
             <zIndex>50</zIndex>
@@ -103,7 +103,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.18 0.955</pos>
+            <pos>0.19 0.955</pos>
             <size>0 0.035</size>
             <zIndex>50</zIndex>
         </image>
@@ -126,7 +126,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/helper.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.08 0.56</pos>
+            <pos>0.19 0.72</pos>
             <maxSize>0.4 0.4</maxSize>
         </image>
     </view>

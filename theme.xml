@@ -94,8 +94,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.19 0.045</pos>
-            <size>0 0.035</size>
+            <pos>0.21 0.045</pos>
+            <size>0 0.025</size>
             <rotation>180</rotation>
             <zIndex>50</zIndex>
         </image>
@@ -103,8 +103,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/arrow.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.19 0.955</pos>
-            <size>0 0.035</size>
+            <pos>0.21 0.955</pos>
+            <size>0 0.025</size>
             <zIndex>50</zIndex>
         </image>
 <!--         <helpsystem name="help">
@@ -115,20 +115,21 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <textColor>F8F8F8</textColor>
             <iconColor>F8F8F8</iconColor>
         </helpsystem> -->
-        <image name="controller" extra="true">
-            <path>./${system.theme}/art/controller.png</path>
-            <tile>false</tile>
-            <origin>0 0</origin>
-            <pos>0.08 0.56</pos>
-            <maxSize>0.4 0.4</maxSize>
-        </image>
         <image name="helperImage" extra="true">
             <path>./_art/var/helper.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
-            <pos>0.19 0.72</pos>
+            <pos>0.21 0.71</pos>
             <maxSize>0.4 0.4</maxSize>
         </image>
+        <image name="controller" extra="true">
+            <path>./${system.theme}/art/controller.png</path>
+            <tile>false</tile>
+            <origin>0.5 0.5</origin>
+            <pos>0.21 0.71</pos>
+            <maxSize>0.4 0.4</maxSize>
+        </image>
+
     </view>
     <view name="basic, detailed, video">
         <image name="background" extra="true">

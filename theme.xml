@@ -120,7 +120,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0 0.5</origin>
             <pos>0.08 0.7</pos>
-            <size>0 .35</size>
+            <size>0 .42</size>
             <visible>true</visible>
         </image>
         <image name="controller" extra="true">
@@ -128,7 +128,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0 0.5</origin>
             <pos>0.08 0.7</pos>
-            <size>0 .35</size>
+            <size>0 .42</size>
         </image>
 
     </view>

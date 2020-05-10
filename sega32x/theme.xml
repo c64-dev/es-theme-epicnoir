@@ -8,7 +8,7 @@
     </view>
     <view name="system">
         <text name="sys_line2" extra="true">
-            <text>Genesis 32x</text>
+            <text>Sega 32x</text>
             <fontSize>0.18</fontSize>
             <origin>0 0</origin>
             <pos>0.082 0.088</pos>

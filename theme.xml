@@ -120,7 +120,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0 0.5</origin>
             <pos>0.08 0.7</pos>
-            <size>0 .56</size>
+            <size>0 .485</size>
             <visible>true</visible>
         </image>
         <image name="controller" extra="true">
@@ -128,7 +128,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0 0.5</origin>
             <pos>0.08 0.7</pos>
-            <size>0 .56</size>
+            <size>0 .485</size>
         </image>
 
     </view>
@@ -252,7 +252,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <size>0.06 0.07</size>
         </text>
         <!-- Hidden Elements -->
-        <text name="shortdescription, longdescription" extra="true">
+<!--         <text name="shortdescription, longdescription" extra="true">
             <origin>1 1</origin>
             <pos>0 0</pos>
             <color>00000000</color>
@@ -278,7 +278,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>0.5 0.5</origin>
             <pos>0.66 0.38</pos>
             <maxSize>0.64 0.64</maxSize>
-        </image>
+        </image> -->
     </view>
     <feature supported="video">
         <view name="video">

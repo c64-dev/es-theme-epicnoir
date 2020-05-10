@@ -120,15 +120,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0 0.5</origin>
             <pos>0.08 0.7</pos>
-            <maxSize>0 0.4</maxSize>
-            <visible>false</visible>
+            <maxSize>0.25 0.25</maxSize>
+            <visible>true</visible>
         </image>
         <image name="controller" extra="true">
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
             <origin>0 0.5</origin>
             <pos>0.08 0.7</pos>
-            <maxSize>0 0.4</maxSize>
+            <maxSize>0.25 0.25</maxSize>
         </image>
 
     </view>

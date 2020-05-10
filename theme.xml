@@ -57,7 +57,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <fontSize>0.021</fontSize>
             <color>9b9a9a</color>
             <origin>0 0</origin>
-            <pos>0.092 0.345</pos>
+            <pos>0.084 0.345</pos>
             <size>0.320 0.033</size>
         </text>
         <text name="systemInfo">
@@ -79,7 +79,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <color>8F8F8F</color>
             <lineSpacing>1.18</lineSpacing>
             <origin>0 0</origin>
-            <pos>0.092 0.322</pos>
+            <pos>0.084 0.322</pos>
             <size>0.28 0.20</size>
         </text>
         <image name="buttonA" extra="true">
@@ -127,7 +127,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
             <origin>0 0.5</origin>
-            <pos>0.092 0.774</pos>
+            <pos>0.084 0.774</pos>
             <maxSize>0.35 0.35</maxSize>
         </image>
 

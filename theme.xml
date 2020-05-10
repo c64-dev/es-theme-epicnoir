@@ -128,7 +128,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <tile>false</tile>
             <origin>0 0.5</origin>
             <pos>0.08 0.775</pos>
-            <size>0 .43</size>
+            <maxSize>0.32 0.32</maxSize>
         </image>
 
     </view>

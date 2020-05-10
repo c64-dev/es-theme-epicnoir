@@ -55,7 +55,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <forceUppercase>0</forceUppercase>
             <fontSize>0.021</fontSize>
-            <color>9b9a9a</color>
+            <color>666666</color>
             <origin>0 0</origin>
             <pos>0.084 0.345</pos>
             <size>0.320 0.033</size>
@@ -76,7 +76,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <forceUppercase>0</forceUppercase>
             <fontSize>0.021</fontSize>
-            <color>8F8F8F</color>
+            <color>4d4d4d</color>
             <lineSpacing>1.18</lineSpacing>
             <origin>0 0</origin>
             <pos>0.084 0.322</pos>

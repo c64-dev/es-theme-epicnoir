@@ -119,7 +119,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./_art/var/helper.svg</path>
             <tile>false</tile>
             <origin>0 0.5</origin>
-            <pos>0.08 0.7</pos>
+            <pos>0.08 0.75</pos>
             <size>0 .42</size>
             <visible>false</visible>
         </image>
@@ -127,7 +127,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
             <origin>0 0.5</origin>
-            <pos>0.08 0.7</pos>
+            <pos>0.08 0.75</pos>
             <size>0 .42</size>
         </image>
 

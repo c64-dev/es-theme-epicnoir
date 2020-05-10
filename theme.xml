@@ -107,14 +107,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <size>0 0.035</size>
             <zIndex>50</zIndex>
         </image>
-        <helpsystem name="help">
+<!--         <helpsystem name="help">
             <fontPath>./_art/Acre.otf</fontPath>
             <fontSize>0.02</fontSize>
             <origin>1 1</origin>
             <pos>0 0</pos>
             <textColor>F8F8F8</textColor>
             <iconColor>F8F8F8</iconColor>
-        </helpsystem>
+        </helpsystem> -->
         <image name="controller" extra="true">
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
@@ -123,7 +123,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <maxSize>0.4 0.4</maxSize>
         </image>
         <image name="helperImage" extra="true">
-            <path>./_art/helper.svg</path>
+            <path>./_art/var/helper.svg</path>
             <tile>false</tile>
             <origin>0.5 0.5</origin>
             <pos>0.08 0.56</pos>

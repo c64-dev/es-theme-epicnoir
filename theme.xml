@@ -42,12 +42,20 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <forceUppercase>1</forceUppercase>
             <color>FFFFFF</color>
+            <fontSize>0.048</fontSize>
+            <origin>0 0</origin>
+            <pos>0.082 0.08</pos>
+            <size>0 0</size>
         </text>
         <text name="sys_line2" extra="true">
             <fontPath>./_art/BebasNeue.otf</fontPath>
             <alignment>left</alignment>
             <forceUppercase>1</forceUppercase>
             <color>FFFFFF</color>
+            <fontSize>0.18</fontSize>
+            <origin>0 0</origin>
+            <pos>0.082 0.088</pos>
+            <size>0 0</size>
         </text>
         <text name="shortdescription" extra="true">
             <fontPath>./_art/Acre.otf</fontPath>
@@ -106,22 +114,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <size>0 0.025</size>
             <zIndex>50</zIndex>
         </image>
-<!--         <helpsystem name="help">
-            <fontPath>./_art/Acre.otf</fontPath>
-            <fontSize>0.02</fontSize>
-            <origin>1 1</origin>
-            <pos>0 0</pos>
-            <textColor>F8F8F8</textColor>
-            <iconColor>F8F8F8</iconColor>
-        </helpsystem> -->
-        <image name="helperImage" extra="true">
-            <path>./_art/var/helper.svg</path>
-            <tile>false</tile>
-            <origin>0 0.5</origin>
-            <pos>0.08 0.775</pos>
-            <size>0 .43</size>
-            <visible>false</visible>
-        </image>
         <image name="controller" extra="true">
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
@@ -152,10 +144,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <lineSpacing>1.683</lineSpacing>
             <horizontalMargin>0.02864</horizontalMargin>
         </textlist>
-<!--    <image name="logo" extra="true"> -->
-<!--    Shouldn't need the extra part for a logo tag based on other themes -->
         <image name="logo">
-<!--        <path>./${system.theme}/art/logo.svg</path> -->
             <tile>false</tile>
             <origin>0.5 0.5</origin>
             <pos>0.115 0.04</pos>
@@ -250,34 +239,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.429 0.724</pos>
             <size>0.06 0.07</size>
         </text>
-        <!-- Hidden Elements -->
-<!--         <text name="shortdescription, longdescription" extra="true">
-            <origin>1 1</origin>
-            <pos>0 0</pos>
-            <color>00000000</color>
-        </text>
-        <text name="md_lbl_releasedate, md_lbl_developer, md_developer, md_lbl_playcount, md_playcount, md_lbl_lastplayed, md_lbl_publisher, md_publsher">
-            <origin>1 1</origin>
-            <color>00000000</color>
-            <pos>0 0</pos>
-        </text>
-        <datetime name="md_releasedate, md_lastplayed">
-            <origin>1 1</origin>
-            <color>00000000</color>
-            <pos>0 0</pos>
-        </datetime>
-        <helpsystem name="help">
-            <origin>1 1</origin>
-            <pos>1 1</pos>
-        </helpsystem>
-    </view>
-    <view name="basic, detailed, grid">
-        <image name="md_image">
-            <tile>false</tile>
-            <origin>0.5 0.5</origin>
-            <pos>0.66 0.38</pos>
-            <maxSize>0.64 0.64</maxSize>
-        </image> -->
     </view>
     <feature supported="video">
         <view name="video">

@@ -1,18 +1,14 @@
 <theme>
     <formatVersion>4</formatVersion>
     <include>./../theme.xml</include>
-<!--     <view name="basic, detailed, video, grid">
-        <text name="nameLabel" extra="true">
-            <text>Sega Genesis 32x</text>
-        </text>
-    </view> -->
+    <view name="basic, detailed, video, grid">
+        <image name="logo">
+            <path>./art/logo.svg</path>
+        </image>
+    </view>
     <view name="system">
         <text name="sys_line2" extra="true">
-            <text>Genesis 32x</text>
-            <fontSize>0.18</fontSize>
-            <origin>0 0</origin>
-            <pos>0.082 0.088</pos>
-            <size>0 0</size>
+            <text>Sega 32x</text>
         </text>
         <text name="shortdescription" extra="true">
             <text>1994  ·  32-bit Console</text>

@@ -1,8 +1,7 @@
 <!--
-Theme name:  Epic Noir
-Artwork by:  Nico La Rosa (Chicuelo) 
-Coding by:   Nick L (c64-dev)
-Website:     www.chicuelo.com.ar
+Theme name:  Not so Epic Noir
+Artwork by:  Mark Hanny and Nico La Rosa (Chicuelo), HerbFargus, 
+Coding by:   Mark Hanny and Nick L (c64-dev)
 Fonts used:  Acre Medium & Bebas Neue Bold
 
 # Thanks and Credits
@@ -43,21 +42,29 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <forceUppercase>1</forceUppercase>
             <color>FFFFFF</color>
+            <fontSize>0.048</fontSize>
+            <origin>0 0</origin>
+            <pos>0.082 0.08</pos>
+            <size>0 0</size>
         </text>
         <text name="sys_line2" extra="true">
             <fontPath>./_art/BebasNeue.otf</fontPath>
             <alignment>left</alignment>
             <forceUppercase>1</forceUppercase>
             <color>FFFFFF</color>
+            <fontSize>0.18</fontSize>
+            <origin>0 0</origin>
+            <pos>0.082 0.088</pos>
+            <size>0 0</size>
         </text>
         <text name="shortdescription" extra="true">
             <fontPath>./_art/Acre.otf</fontPath>
             <alignment>left</alignment>
             <forceUppercase>0</forceUppercase>
             <fontSize>0.021</fontSize>
-            <color>9b9a9a</color>
+            <color>262626</color>
             <origin>0 0</origin>
-            <pos>0.08 0.345</pos>
+            <pos>0.084 0.345</pos>
             <size>0.320 0.033</size>
         </text>
         <text name="systemInfo">
@@ -65,9 +72,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <backgroundColor>00000000</backgroundColor>
             <forceUppercase>1</forceUppercase>
-            <color>A3332D</color>
+            <color>203040</color>
             <origin>0 0</origin>
-            <pos>0.08 0.272</pos>
+            <pos>0.082 0.272</pos>
             <size>0.200 0.039</size>
             <fontSize>0.0315</fontSize>
         </text>
@@ -76,34 +83,45 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <forceUppercase>0</forceUppercase>
             <fontSize>0.021</fontSize>
-            <color>8F8F8F</color>
+            <color>262626</color>
             <lineSpacing>1.18</lineSpacing>
             <origin>0 0</origin>
-            <pos>0.08 0.322</pos>
+            <pos>0.084 0.322</pos>
             <size>0.28 0.20</size>
         </text>
         <image name="buttonA" extra="true">
             <path>./_art/var/button.svg</path>
             <tile>false</tile>
-            <origin>0 0</origin>
-            <pos>0.9 0.92</pos>
-            <size>0 0.044</size>
+            <origin>0.5 0.5</origin>
+            <pos>0.945 0.955</pos>
+            <size>0 0.045</size>
+            <zIndex>50</zIndex>
         </image>
-        <helpsystem name="help">
-            <fontPath>./_art/Acre.otf</fontPath>
-            <fontSize>0.02</fontSize>
-            <origin>1 1</origin>
-            <pos>0 0</pos>
-            <textColor>F8F8F8</textColor>
-            <iconColor>F8F8F8</iconColor>
-        </helpsystem>
+        <image name="topArrow" extra="true">
+            <path>./_art/var/arrow.svg</path>
+            <tile>false</tile>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.045</pos>
+            <size>0 0.025</size>
+            <rotation>180</rotation>
+            <zIndex>50</zIndex>
+        </image>
+        <image name="bottomArrow" extra="true">
+            <path>./_art/var/arrow.svg</path>
+            <tile>false</tile>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.955</pos>
+            <size>0 0.025</size>
+            <zIndex>50</zIndex>
+        </image>
         <image name="controller" extra="true">
             <path>./${system.theme}/art/controller.png</path>
             <tile>false</tile>
-            <origin>0 0</origin>
-            <pos>0.08 0.56</pos>
-            <maxSize>0.4 0.4</maxSize>
+            <origin>0 0.5</origin>
+            <pos>0.084 0.774</pos>
+            <maxSize>0.35 0.35</maxSize>
         </image>
+
     </view>
     <view name="basic, detailed, video">
         <image name="background" extra="true">
@@ -126,13 +144,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <lineSpacing>1.683</lineSpacing>
             <horizontalMargin>0.02864</horizontalMargin>
         </textlist>
-        <!-- TODO: Make system all logos white -->
-        <image name="logo" extra="true">
-            <path>./${system.theme}/art/logo.svg</path>
+        <image name="logo">
             <tile>false</tile>
             <origin>0.5 0.5</origin>
             <pos>0.115 0.04</pos>
-            <maxSize>0.215 0.064</maxSize>
+            <maxSize>0.208 0.056</maxSize>
         </image>
         <text name="md_description">
             <fontPath>./_art/Acre.otf</fontPath>
@@ -223,34 +239,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.429 0.724</pos>
             <size>0.06 0.07</size>
         </text>
-        <!-- Hidden Elements -->
-        <text name="shortdescription, longdescription" extra="true">
-            <origin>1 1</origin>
-            <pos>0 0</pos>
-            <color>00000000</color>
-        </text>
-        <text name="md_lbl_releasedate, md_lbl_developer, md_developer, md_lbl_playcount, md_playcount, md_lbl_lastplayed, md_lbl_publisher, md_publsher">
-            <origin>1 1</origin>
-            <color>00000000</color>
-            <pos>0 0</pos>
-        </text>
-        <datetime name="md_releasedate, md_lastplayed">
-            <origin>1 1</origin>
-            <color>00000000</color>
-            <pos>0 0</pos>
-        </datetime>
-        <helpsystem name="help">
-            <origin>1 1</origin>
-            <pos>1 1</pos>
-        </helpsystem>
-    </view>
-    <view name="basic, detailed, grid">
-        <image name="md_image">
-            <tile>false</tile>
-            <origin>0.5 0.5</origin>
-            <pos>0.66 0.38</pos>
-            <maxSize>0.64 0.64</maxSize>
-        </image>
     </view>
     <feature supported="video">
         <view name="video">

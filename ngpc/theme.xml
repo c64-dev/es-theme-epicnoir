@@ -1,11 +1,11 @@
 <theme>
     <formatVersion>4</formatVersion>
     <include>./../theme.xml</include>
-<!--     <view name="basic, detailed, video, grid">
-        <text name="nameLabel" extra="true">
-            <text>Neo Geo Pocket Color</text>
-        </text>
-    </view> -->
+    <view name="basic, detailed, video, grid">
+        <image name="logo">
+            <path>./art/logo.svg</path>
+        </image>
+    </view>
     <view name="system">
         <text name="sys_line1" extra="true">
             <text>Neo Geo</text>

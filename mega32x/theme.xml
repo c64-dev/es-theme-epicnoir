@@ -1,25 +1,17 @@
 <theme>
     <formatVersion>4</formatVersion>
     <include>./../theme.xml</include>
-<!--     <view name="basic, detailed, video, grid">
+    <view name="basic, detailed, video, grid">
         <text name="nameLabel" extra="true">
             <text>Sega Mega 32x</text>
         </text>
-    </view> -->
+    </view>
     <view name="system">
         <text name="sys_line1" extra="true">
             <text>Sega</text>
-            <fontSize>0.048</fontSize>
-            <origin>0 0</origin>
-            <pos>0.082 0.08</pos>
-            <size>0 0</size>
         </text>
         <text name="sys_line2" extra="true">
             <text>Mega 32x</text>
-            <fontSize>0.18</fontSize>
-            <origin>0 0</origin>
-            <pos>0.082 0.088</pos>
-            <size>0 0</size>
         </text>
         <text name="shortdescription" extra="true">
             <text>1994  ·  32-bit Console</text>

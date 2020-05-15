@@ -36,16 +36,23 @@ In order to update your installed theme (if you installed with above instruction
 ---
 
 ## Screenshots
-
-![Sample01](./_art/samples/001.jpg) \
-![Sample04](./_art/samples/004.jpg) \
-![Sample05](./_art/samples/005.jpg) \
-![Sample07](./_art/samples/007.jpg) \
-![Sample08](./_art/samples/008.jpg) \
-![Sample09](./_art/samples/009.jpg) \
-![Sample10](./_art/samples/010.jpg) \
-![Sample11](./_art/samples/011.jpg) \
-![Sample12](./_art/samples/012.jpg) \
+![Arcade](./_art/samples/arcade.jpg) \
+![Nintendo](./_art/samples/nes.jpg) \
+![Gameboy Color](./_art/samples/gbc.jpg) \
+![Super Nintendo](./_art/samples/snes.jpg) \
+![Gameboy Advance](./_art/samples/gba.jpg) \
+![Master System](./_art/samples/mastersystem.jpg) \
+![Neo Geo](./_art/samples/neogeo.jpg) \
+![Neo Geo Pocket Color](./_art/samples/neogeopocket.jpg) \
+![PC-Engine](./_art/samples/pc-engine.jpg) \
+![Engine CD](./_art/samples/pce-cd.jpg) \
+![Playstation](./_art/samples/psx.jpg) \
+![Options](./_art/samples/options.jpg) \
+![Last Played](./_art/samples/lastplayed.jpg) \
+![PC-Engine List](./_art/samples/pc-engine_list.jpg) \
+![PC-Engine CD List](./_art/samples/pce-cd_list.jpg) \
+![Playstation List](./_art/samples/psx_list.jpg) \
+![Neo Geo List](./_art/samples/neogeo_list.jpg) \
 
 [back to top](#notsoepicnoir-retropie-theme)
 

@@ -37,23 +37,23 @@ In order to update your installed theme (if you installed with above instruction
 
 ## Screenshots
 
-![Arcade](./_art/samples/arcade.jpg) \
-![Nintendo](./_art/samples/nes.jpg) \
-![Gameboy Color](./_art/samples/gbc.jpg) \
-![Super Nintendo](./_art/samples/snes.jpg) \
-![Gameboy Advance](./_art/samples/gba.jpg) \
-![Master System](./_art/samples/mastersystem.jpg) \
-![Neo Geo](./_art/samples/neogeo.jpg) \
-![Neo Geo Pocket Color](./_art/samples/neogeopocket.jpg) \
-![PC-Engine](./_art/samples/pc-engine.jpg) \
-![Engine CD](./_art/samples/pce-cd.jpg) \
-![Playstation](./_art/samples/psx.jpg) \
-![Options](./_art/samples/options.jpg) \
-![Last Played](./_art/samples/lastplayed.jpg) \
-![PC-Engine List](./_art/samples/pc-engine_list.jpg) \
-![PC-Engine CD List](./_art/samples/pce-cd_list.jpg) \
-![Playstation List](./_art/samples/psx_list.jpg) \
-![Neo Geo List](./_art/samples/neogeo_list.jpg) \
+![Arcade](./_art/samples/arcade.png) \
+![Nintendo](./_art/samples/nes.png) \
+![Gameboy Color](./_art/samples/gbc.png) \
+![Super Nintendo](./_art/samples/snes.png) \
+![Gameboy Advance](./_art/samples/gba.png) \
+![Master System](./_art/samples/mastersystem.png) \
+![Neo Geo](./_art/samples/neogeo.png) \
+![Neo Geo Pocket Color](./_art/samples/neogeopocket.png) \
+![PC-Engine](./_art/samples/pc-engine.png) \
+![Engine CD](./_art/samples/pce-cd.png) \
+![Playstation](./_art/samples/psx.png) \
+![Options](./_art/samples/options.png) \
+![Last Played](./_art/samples/lastplayed.png) \
+![PC-Engine List](./_art/samples/pc-engine_list.png) \
+![PC-Engine CD List](./_art/samples/pce-cd_list.png) \
+![Playstation List](./_art/samples/psx_list.png) \
+![Neo Geo List](./_art/samples/neogeo_list.png)
 
 [back to top](#notsoepicnoir-retropie-theme)
 
@@ -77,7 +77,6 @@ Nintendo Gameboy  Advance\
 Nintendo Gameboy Color \
 Nintendo GameCube \
 Nintendo SNES \
-Nintendo VirtualBoy \
 Nintendo Wii & WiiU \
 PC-Engine \
 ScummVM \

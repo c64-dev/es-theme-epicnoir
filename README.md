@@ -36,6 +36,7 @@ In order to update your installed theme (if you installed with above instruction
 ---
 
 ## Screenshots
+
 ![Arcade](./_art/samples/arcade.jpg) \
 ![Nintendo](./_art/samples/nes.jpg) \
 ![Gameboy Color](./_art/samples/gbc.jpg) \

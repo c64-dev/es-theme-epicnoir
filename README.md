@@ -1,6 +1,6 @@
-# Not so Epic Noir Theme for Emulation Station
+# Not so Epic
 
-This is a modern dark RetroPie theme based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). Not So Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
+This is a modern dark Emulation Station theme based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). Not so Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
 
 ---
 
@@ -11,27 +11,32 @@ This is a modern dark RetroPie theme based on the [original theme by Chicuelo an
 - Collections for 'All Games', 'Favorites', 'Last Played' and some 'Custom Collections' are supported
 - Support for screenshots/boxart and/or video.
 
-[back to top](#notsoepicnoir-retropie-theme)
+[1]: #Not-so-Epic
+[back to top][1]
 
 ---
 
 ## Installation and Updating
 
-1. Close EmulationStation.
+1. Close EmulationStation
 
-2. Create folder `~/.emulationstation/themes` if it does not exist.
+2. Goto the folder `~/.emulationstation/themes`. If it does not exist got ahead and make it.
 
-3. Run in a terminal:
+3. Clone the theme from GitHub
 
-       cd ~/.emulationstation/themes
-       git clone https://github.com/hoover900/es-theme-notsoepicnoir.git --branch master
+    ``` bash
+    cd ~/.emulationstation/themes
+    git clone https://github.com/hoover900/Not-so-Epic.git --branch master
+    ```
 
 ### Update
 
-In order to update your installed theme (if you installed with above instructions), open a terminal and run:
+- If you installed with above instructions, open a terminal and run:
 
-    cd ~/.emulationstation/themes/es-theme-notsoepicnoir
+    ``` bash
+    cd ~/.emulationstation/themes/Not-so-Epic
     git pull
+    ```
 
 ---
 
@@ -55,7 +60,7 @@ In order to update your installed theme (if you installed with above instruction
 ![Playstation List](./_art/samples/psx_list.png) \
 ![Neo Geo List](./_art/samples/neogeo_list.png)
 
-[back to top](#notsoepicnoir-retropie-theme)
+[back to top][1]
 
 ## Fully Supported Systems
 
@@ -93,12 +98,12 @@ Sony PSP \
 SuperGrafx \
 TurboGrafx-16 \
 Wonderswan \
-Wonderswan Color \
+Wonderswan Color
 
 **Collections:** \
 Auto Collections
 
-[back to top](#notsoepicnoir-retropie-theme)
+[back to top][1]
 
 ## Theme Notes
 
@@ -106,35 +111,37 @@ This theme supports video. You can also use a scraped image in conjunction with 
 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
-[back to top](#notsoepicnoir-retropie-theme)
+[back to top][1]
 
 ---
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+\
+\
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Licence")
 
-ALLOWED:
+### ALLOWED
 
 - Share and duplicate as it is
 - Edit, alter, change it
 
-REQUIREMENTS:
+### REQUIREMENTS
 
 - Attribution, give credit to the creators
 - Indicate changes to the theme
 - Publish the changes under the same license
 
-PROHIBITED:
+### PROHIBITED
 
 - Commercial distribution
 
 ### Please note
 
-By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
+By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others. **You are *not* allowed to sell or generate any kind of monetary profit from this theme**. Please see the [License file](./LICENSE) for more details.
 
-[back to top](#notsoepicnoir-retropie-theme)
+[back to top][1]
 
 ---
 
@@ -143,4 +150,4 @@ By downloading and installing this theme it will be assumed that you own and pos
 All original artwork belongs to the many artists who devoted their talents and time into making them.
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-[back to top](#notsoepicnoir-retropie-theme)
+[back to top][1]

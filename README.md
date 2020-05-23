@@ -1,6 +1,7 @@
 # Not so Epic
 
-This is a modern dark Emulation Station theme based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). Not so Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
+[1]: #Not-so-Epic
+This is a modern darkish Emulation Station theme with virbrant art based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). Not so Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
 
 ---
 
@@ -10,9 +11,6 @@ This is a modern dark Emulation Station theme based on the [original theme by Ch
 - New high quality wallpapers for all systems
 - Collections for 'All Games', 'Favorites', 'Last Played' and some 'Custom Collections' are supported
 - Support for screenshots/boxart and/or video.
-
-[1]: #Not-so-Epic
-[back to top][1]
 
 ---
 
@@ -42,6 +40,8 @@ This is a modern dark Emulation Station theme based on the [original theme by Ch
 
 ## Screenshots
 
+### Console Menus
+
 ![Arcade](./_art/samples/arcade.png) \
 ![Nintendo](./_art/samples/nes.png) \
 ![Gameboy Color](./_art/samples/gbc.png) \
@@ -54,13 +54,18 @@ This is a modern dark Emulation Station theme based on the [original theme by Ch
 ![Engine CD](./_art/samples/pce-cd.png) \
 ![Playstation](./_art/samples/psx.png) \
 ![Options](./_art/samples/options.png) \
-![Last Played](./_art/samples/lastplayed.png) \
+![Last Played](./_art/samples/lastplayed.png)
+
+### Game List Menus
+
 ![PC-Engine List](./_art/samples/pc-engine_list.png) \
 ![PC-Engine CD List](./_art/samples/pce-cd_list.png) \
 ![Playstation List](./_art/samples/psx_list.png) \
 ![Neo Geo List](./_art/samples/neogeo_list.png)
 
 [back to top][1]
+
+---
 
 ## Fully Supported Systems
 
@@ -103,7 +108,7 @@ Wonderswan Color
 **Collections:** \
 Auto Collections
 
-[back to top][1]
+---
 
 ## Theme Notes
 
@@ -140,8 +145,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 ### Please note
 
 By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others. **You are *not* allowed to sell or generate any kind of monetary profit from this theme**. Please see the [License file](./LICENSE) for more details.
-
-[back to top][1]
 
 ---
 

@@ -1,0 +1,10 @@
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="grid">
+    <imagegrid name="gamegrid">
+      <pos>0.05 0.65</pos>
+      <autoLayout>4 1</autoLayout>
+      <autoLayoutSelectedZoom>1.1</autoLayoutSelectedZoom>
+    </imagegrid>
+  </view>
+</theme>

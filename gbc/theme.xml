@@ -1,6 +1,7 @@
 <theme>
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
+<include>./../_templates/square_box.xml</include>
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">

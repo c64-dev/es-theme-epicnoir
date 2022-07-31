@@ -1,0 +1,8 @@
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="grid">
+    <imagegrid name="gamegrid">
+      <autoLayout>5 1</autoLayout>
+    </imagegrid>
+  </view>
+</theme>

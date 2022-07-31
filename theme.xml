@@ -319,6 +319,221 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 </view>
 
+  <view name="grid">
+    <!-- Background (Image/Video) -->
+    <image name="background" extra="true">
+      <zIndex>1</zIndex>
+      <tile>true</tile>
+      <origin>0 0</origin>
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <path>./_inc/images/space.png</path>
+      <color>000000</color>
+    </image>
+    <image name="md_image">
+      <zIndex>7</zIndex>
+      <origin>0.5 0</origin>
+      <pos>0.815 0</pos>
+      <maxSize>1 1</maxSize>
+    </image>
+    <video name="md_video">
+      <zIndex>8</zIndex>
+      <origin>0.5 0</origin>
+      <pos>0.815 0</pos>
+      <maxSize>1 1</maxSize>
+      <delay>0.5</delay>
+      <showSnapshotNoVideo>false</showSnapshotNoVideo>
+      <showSnapshotDelay>false</showSnapshotDelay>
+    </video>
+    <image name="background-gradient" extra="true">
+      <zIndex>9</zIndex>
+      <origin>0 0</origin>
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <path>./_art/var/background_gradient.png</path>
+      <color>000000</color>
+    </image>
+    
+    <!-- Grid Area -->
+    <imagegrid name="gamegrid">
+      <zIndex>20</zIndex>
+      <pos>0.05 0.65</pos>
+      <size>0.9 0.25</size>
+      <margin>0.0 0.0</margin>
+      <padding>0.0 0.0</padding>
+      <autoLayout>6 1</autoLayout>
+      <autoLayoutSelectedZoom>1.3</autoLayoutSelectedZoom>
+      <scrollDirection>horizontal</scrollDirection>
+    </imagegrid>
+    <gridtile name="default">
+      <imageColor>ccccccff</imageColor>
+      <padding>0 0</padding>
+      <backgroundCornerSize>0 0</backgroundCornerSize>
+      <backgroundCenterColor>00000000</backgroundCenterColor>
+      <backgroundEdgeColor>00000000</backgroundEdgeColor>
+    </gridtile>
+    <gridtile name="selected">
+      <padding>0 0</padding>
+      <backgroundCornerSize>0 0</backgroundCornerSize>
+      <backgroundCenterColor>00000000</backgroundCenterColor>
+      <backgroundEdgeColor>00000000</backgroundEdgeColor>
+    </gridtile>
+    
+
+    <!-- System Info (Hidden) -->
+    <text name="logoText">
+      <zIndex>0</zIndex>
+      <origin>1 0</origin>
+      <pos>0.99 0.01</pos>
+      <size>0.675 0</size>
+      <alignment>right</alignment>
+      <fontSize>0.03</fontSize>
+      <forceUppercase>true</forceUppercase>
+      <color>00000000</color>
+    </text>
+    <image name="logo">
+      <zIndex>200</zIndex>
+      <origin>1 0</origin>
+      <color>ffffff44</color>
+      <pos>0.96 0.05</pos>
+      <maxSize>0.13 0.08</maxSize>
+      <color>ffffff00</color>
+    </image>
+    
+    <!-- Help Indicators -->
+    <image name="help-launch" extra="true">
+      <path>./_art/var/button_launch.svg</path>
+      <tile>false</tile>
+      <zIndex>100</zIndex>
+      <pos>0.03 0.985</pos>
+      <size>0.1 0.035</size>
+      <origin>0 1</origin>
+    </image>
+    <image name="help-return" extra="true">
+      <path>./_art/var/button_return.svg</path>
+      <zIndex>100</zIndex>
+      <pos>0.5 0.985</pos>
+      <size>0.1 0.035</size>
+      <origin>0.5 1</origin>
+    </image>
+    <image name="help-favorite" extra="true">
+      <path>./_art/var/button_favorite.svg</path>
+      <zIndex>100</zIndex>
+      <pos>0.997 0.985</pos>
+      <size>0.1 0.035</size>
+      <origin>1 1</origin>
+    </image>
+
+    <!-- Game Info -->
+    <text name="md_lbl_lastplayed,md_lbl_players,md_players,md_lbl_releasedate,md_lbl_genre,md_genre,md_description">
+      <zIndex>11</zIndex>
+      <color>8F8F8F</color>
+      <fontSize>0.02</fontSize>
+      <fontPath>./_art/Acre.otf</fontPath>
+    </text>
+    <datetime name="md_lastplayed,md_releasedate">
+      <zIndex>11</zIndex>
+      <color>8F8F8F</color>
+      <fontSize>0.02</fontSize>
+      <fontPath>./_art/Acre.otf</fontPath>
+    </datetime>
+
+    <text name="md_name">
+      <origin>0 0</origin>
+      <alignment>left</alignment>
+      <pos>0.04 0.07</pos>
+      <size>0.75 0</size>
+      <fontSize>0.1</fontSize>
+      <color>f3f3f3</color>
+      <fontPath>./_art/BebasNeue.otf</fontPath>
+      <forceUppercase>1</forceUppercase>
+    </text>
+    <text name="md_publisher">
+      <origin>0 0</origin>
+      <alignment>left</alignment>
+      <pos>0.04 0.05</pos>
+      <size>0.3125 0</size>
+      <fontSize>0.03</fontSize>
+      <color>9b9a9a</color>
+      <fontPath>./_art/Acre.otf</fontPath>
+    </text>
+    <rating name="md_rating">
+      <pos>0.04 0.21</pos>
+      <size>0.2 0.05</size>
+      <color>ffffff</color>
+      <filledPath>./_art/var/star_filled.svg</filledPath>
+      <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
+    </rating>
+    <text name="md_lbl_lastplayed">
+      <pos>0.04 0.30</pos>
+      <size>0.078125 0</size>
+      <forceUppercase>1</forceUppercase>
+    </text>
+    <datetime name="md_lastplayed">
+      <pos>0.15 0.30</pos>
+      <size>0.171875 0</size>
+    </datetime>
+    <text name="md_lbl_releasedate">
+      <pos>0.04 0.35</pos>
+      <size>0.078125 0</size>
+      <forceUppercase>1</forceUppercase>
+    </text>
+    <datetime name="md_releasedate">
+      <pos>0.15 0.35</pos>
+      <size>0.171875 0</size>
+    </datetime>
+    <text name="md_lbl_players">
+      <pos>0.04 0.4</pos>
+      <size>0.078125 0</size>
+      <forceUppercase>1</forceUppercase>
+    </text>
+    <text name="md_players">
+      <pos>0.15 0.4</pos>
+      <size>0.171875 0</size>
+    </text>
+    <text name="md_lbl_genre">
+      <pos>0.04 0.45</pos>
+      <size>0.078125 0</size>
+      <forceUppercase>1</forceUppercase>
+    </text>
+    <text name="md_genre">
+      <pos>0.15 0.45</pos>
+      <size>0.14 0</size>
+    </text>
+    <text name="md_description">
+      <alignment>left</alignment>
+      <pos>0.3 0.3</pos>
+      <size>0.4 0.21</size>
+    </text>
+    
+    <!-- Hidden Game Info -->
+    <rating name="md_lbl_playcount">
+      <pos>0 0</pos>
+      <size>0 0</size>
+      <color>00000000</color>
+    </rating>
+    <rating name="md_playcount">
+      <pos>0 0</pos>
+      <size>0 0</size>
+      <color>00000000</color>
+    </rating>
+    <rating name="md_lbl_developer">
+      <pos>0 0</pos>
+      <size>0 0</size>
+      <color>00000000</color>
+    </rating>
+    <rating name="md_developer">
+      <pos>0 0</pos>
+      <size>0 0</size>
+      <color>00000000</color>
+    </rating>
+    <rating name="md_lbl_rating">
+      <pos>0 0</pos>
+      <size>0 0</size>
+      <color>00000000</color>
+    </rating>
+  </view>
+
 <feature supported="video">
     <view name="video">
         <video name="md_video">
